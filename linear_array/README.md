@@ -48,7 +48,8 @@ https://epicentrk.ua/ua/shop/zaglushka-kvadratnaya-chernaya-25kh25-mm-4-sht.html
 https://epicentrk.ua/ua/shop/bolt-metricheskiy-din-933-6x35-mm-ves-expert-fix-85641.html
 
 - ### Болт М6х40 (4 шт)
-Можете купити саме ці що довші замість М6х35, потім по місцю вкоротити (зайвий метал близько до антен краще прибирати). Якщо вкоротите, зніміть фаску й оновіть різьбу, в полях або на морозі гайка має накручуватись легко
+Можете купити саме ці що довші замість М6х35, потім по місцю вкоротити (зайвий метал близько до антен краще прибирати). Якщо вкоротите, зніміть фаску й оновіть різьбу, в полях або на морозі гайка має накручуватись 
+
 https://epicentrk.ua/ua/shop/bolt-metricheskiy-din-933-6x40-mm-ves-expert-fix-85642.html
 
 - ### Гайка М6
@@ -59,4 +60,5 @@ https://epicentrk.ua/ua/shop/shayba-ploskaya-m6-40-sht-expert-fix.html
 
 - ### Фарба 
 RAL6006 мат, класіка
+
 https://epicentrk.ua/ua/shop/emal-universalnaya-ral-6006-new-ton-khaki-olivkovyy-glyanets-400-ml.html
