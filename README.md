@@ -9,14 +9,13 @@
 
 ## Галерея
 
-<img src="img1.jpg" style="height: 200px; width:200px;"/>
-<img src="img2.jpg" style="height: 200px; width:200px;"/>
-<img src="img3.jpg" style="height: 200px; width:200px;"/>
+<img src="img/img1.jpg" style="height: 200px; width:200px;"/><img src="img/img2.jpg" style="height: 200px; width:200px;"/>
+<img src="img/img3.jpg" style="height: 200px; width:200px;"/>
 
 ### Зауваження:
 
 - Діполі на траверсі нумеруються зліва направо (від 0 до 4) якщо антена умовно стоїть перед вами і повернута до ворога
-<img src="towards_enemy.jpg" style="height: 200px; width:200px;"/>
+<img src="img/towards_enemy.jpg" style="height: 200px; width:200px;"/>
 
 - Лінійний масив антен має парусність і крутиться за вітром - зробіть так щоб мачта не оберталась, бо траверса працює як флюгер
 - Це додаткова причина частіше калібруватись (вираховувати кут антени до справжньої півночі), бо за ніч антена цілком може провернутись на 1-2 градуси

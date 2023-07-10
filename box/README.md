@@ -4,15 +4,11 @@
 
 ## Галерея
 
-<img src="img1.jpg" style="height: 200px; width:200px;"/>
-<img src="img2.jpg" style="height: 200px; width:200px;"/>
-<img src="img3.jpg" style="height: 200px; width:200px;"/>
-<img src="img4.jpg" style="height: 200px; width:200px;"/>
-<img src="img5.jpg" style="height: 200px; width:200px;"/>
-<img src="img6.jpg" style="height: 200px; width:200px;"/>
-<img src="img7.jpg" style="height: 200px; width:200px;"/>
-<img src="img8.jpg" style="height: 200px; width:200px;"/>
-<img src="img9.jpg" style="height: 200px; width:200px;"/>
+<img src="img\img2.jpg" style="height: 200px; width:200px;"/><img src="img\img1.jpg" style="height: 200px; width:200px;"/>
+<img src="img\img3.jpg" style="height: 200px; width:200px;"/><img src="img\img4.jpg" style="height: 200px; width:200px;"/>
+<img src="img\img5.jpg" style="height: 200px; width:200px;"/><img src="img\img6.jpg" style="height: 200px; width:200px;"/>
+<img src="img\img7.jpg" style="height: 200px; width:200px;"/><img src="img\img8.jpg" style="height: 200px; width:200px;"/>
+<img src="img\img9.jpg" style="height: 200px; width:200px;"/>
 
 ## Компоненти
 
