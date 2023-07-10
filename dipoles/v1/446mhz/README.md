@@ -1,6 +1,6 @@
 # Зборка диполів
 
-Відео із зауважаннями по зборці:
+Відео із зауваженнями по зборці:
 https://youtu.be/QFiHPVZvDwM
 
 Необхідна кількість - 5 шт. Бажано зробити 7 шт (1 зламається, 1 загубиться, потім зробити такий самий буде важко)
@@ -27,9 +27,9 @@ https://youtu.be/QFiHPVZvDwM
 - таким же чином припаюється трубка до екрану
 - обидві трубки та роз'єм фіксуються невеликою кількістю цианокрилата щоб уникнути механічного пошкодження
 - диполь перевіряється антенним аналізатором, порівнюється з іншими диполями, по необхідності переробляється
-- трубка котра відповідає центральній жилі маркується, наприклад кільцем з термоусадки не клеєвій основі 5-10 мм довжиною. Це необхідно щоб **_під час зборки всі диполі дивились центральною жилою вгору_**
+- трубка котра відповідає центральній жилі маркується, наприклад кільцем з термоусадки не клеєвій основі 5-10 мм довжиною. Це необхідно щоб **_під час кріплення на траверсу всі диполі дивились центральною жилою (плечем) вгору_**
 
-**_Кожен диполь має бути герметичним. Всі диполі мають мати фазову симетрію_**. , що має проявлятись в т.ч. у резонансі на одній й тій самій частоті. Порядок перевірки диполів:
+**_Кожен диполь має бути герметичним. Всі диполі мають мати фазову симетрію_** , що має проявлятись в т.ч. у резонансі на одній й тій самій частоті. Порядок перевірки диполів:
 - закріпляєте траверсу стаціонарно горизонтально, бажано подалі від металевих конструкцій
 - по черзі прикручуєте диполі до однієї точки на траверсі, під'єднуєте одним і тим самим фідером (1.5м+), відходите з антенним аналізатором якнайдалі та міряєте частоту резонансу
 - розбіжність частоти резонансу між диполями має бути в межах 1 МГц
@@ -47,19 +47,24 @@ https://youtu.be/QFiHPVZvDwM
 
 ## Де можна придбати елементи конструкції (приклад):
 
+Роз'єм SMA ("Разъем SMA-F KWHD Female на плату 90 град. L=23mm")
+- https://www.nikom.biz/product_A145029.html
+- https://voron.ua/catalog/035346--razem_sma-f_kwhd_female_gnezdo_na_platu_90_grad?lang=ru (використовував саме такий)
+- https://prom.ua/ua/p1544436475-razem-sma-kwhd.html (саме цей я не тестував на відповідність отвору в корпусі, але має підійти)
+
 Цианокрілат двокомпонентний
-https://epicentrk.ua/ua/shop/mplc-klei-akfix-705-shvidkogo-skleyuvannya-400-ml-1eb96a36-9013-614c-a259-4fa76f03cc38.html
+- https://epicentrk.ua/ua/shop/mplc-klei-akfix-705-shvidkogo-skleyuvannya-400-ml-1eb96a36-9013-614c-a259-4fa76f03cc38.html
 
 Труба для диполів:
-https://epicentrk.ua/ua/shop/truba-profilnaya-kruglaya-alyuminiy-anodirovanoe-serebro-1-m-d8x8x8x1x1000mm.html
+- https://epicentrk.ua/ua/shop/truba-profilnaya-kruglaya-alyuminiy-anodirovanoe-serebro-1-m-d8x8x8x1x1000mm.html
 
 Кришка на плече (трубку) диполя:
-https://epicentrk.ua/ua/shop/mplc-zagluska-krugla-zovnisna-8-mm-10-st-cornij-rdn-8-blk-107-1edb114c-0526-6c6c-89f2-7972dc888971.html
-https://epicentrk.ua/ua/shop/mplc-zagluska-dla-otvoriv-8-mm-10-st-cornij-to-8-blk-203-1edc6fe8-dec7-602e-9e7a-c9732497d757.html
+- https://epicentrk.ua/ua/shop/mplc-zagluska-krugla-zovnisna-8-mm-10-st-cornij-rdn-8-blk-107-1edb114c-0526-6c6c-89f2-7972dc888971.html
+- https://epicentrk.ua/ua/shop/mplc-zagluska-dla-otvoriv-8-mm-10-st-cornij-to-8-blk-203-1edc6fe8-dec7-602e-9e7a-c9732497d757.html
 
 Гайка М5 для кріплення диполя до траверси (барашкові не можна, бо резонанс попливе):
-https://epicentrk.ua/ua/shop/gayka-shestigrannaya-m5-40-sht-expert-fix.html
+- https://epicentrk.ua/ua/shop/gayka-shestigrannaya-m5-40-sht-expert-fix.html
 
 Гвинт М5х40, на 5 диполів потрібно 10 штук, відповідно 2 упаковки:
-https://epicentrk.ua/ua/shop/vint-metricheskiy-din-965-5x40-mm-8-sht-expert-fix.html
+- https://epicentrk.ua/ua/shop/vint-metricheskiy-din-965-5x40-mm-8-sht-expert-fix.html
 
