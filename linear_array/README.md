@@ -14,7 +14,7 @@
 <img src="траверса.jpg" style="height: 500px; width:615px;"/>
 
 ## Виніс траверси
-<img src="траверса.jpg" style="height: 400px; width:492px;"/>
+<img src="виніс.jpg" style="height: 400px; width:492px;"/>
 
 ## Мачта
 <img src="мачта.jpg" style="height: 400px; width:492px;"/>
@@ -26,7 +26,7 @@
 
 ## Галерея
 
-<img src="img/img1.jpg" style="height: 615px; width:500px;"/><img src="img/img1.jpg" style="height: 615px; width:500px;"/><img src="img/img1.jpg" style="height: 615px; width:500px;"/>
+<img src="img/img1.jpg" style="height: 200px; width:250px;"/><img src="img/img1.jpg" style="height: 200px; width:250px;"/><img src="img/img1.jpg" style="height: 200px; width:250px;"/>
 
 ## Де можна придбати елементи конструкції:
 
