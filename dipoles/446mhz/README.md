@@ -1,6 +1,14 @@
 # Зборка диполів
 
+- Готовий диполь:
 <img src="img\img1.jpg" style="height: 250px; width:200px;"/>
+
+- Корпус диполя:
+<img src="img\case.png" style="height: 250px; width:250px;"/>
+<a href="корпус_диполя_3D_друк.zip">Корпус диполя (3D-друк)</a>
+
+- Плече диполя (резонанс ~446 МГц)
+<img src="плече_діполя.jpg" style="height: 200px; width:250px;"/>
 
 Відео із зауваженнями по зборці:
 https://youtu.be/QFiHPVZvDwM
