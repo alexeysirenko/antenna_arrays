@@ -26,7 +26,7 @@
 
 ## Галерея
 
-<img src="img/img1.jpg" style="height: 200px; width:250px;"/><img src="img/img1.jpg" style="height: 200px; width:250px;"/><img src="img/img1.jpg" style="height: 200px; width:250px;"/>
+<img src="img/img1.jpg" style="height: 320px; width:250px;"/><img src="img/img2.jpg" style="height: 320px; width:250px;"/><img src="img/img3.jpg" style="height: 320px; width:250px;"/>
 
 ## Де можна придбати елементи конструкції:
 
