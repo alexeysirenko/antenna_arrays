@@ -11,21 +11,20 @@
 Майте на увазі, що труби довше 1м Нова Пошта відправляє тільки на вантажні відділення.
 
 ## Траверса
-<a href="траверса_short.dxf" target="_blank">Скачати креслення DXF</a>
 <img src="траверса_short.svg"/>
 
 ## Виніс траверси
-<a href="виніс.dxf" target="_blank">Скачати креслення DXF</a>
 <img src="виніс.svg"/>
 
 ## Мачта
-<a href="мачта.dxf" target="_blank">Скачати креслення DXF</a>
 <img src="мачта.svg"/>
 
 ## Кріплення елементів між собою (лазерна порізка)
-<a href="лазерна_порізка.zip" target="_blank">Скачати креслення під порізку лазером (DXF)</a>
 
 <img src="img/деталь4.png" style="height: 200px; width:200px;"/><img src="img/деталь5.png" style="height: 200px; width:200px;"/><img src="img/деталь6.png" style="height: 200px; width:200px;"/>
+
+## Скачати всі креслення одним архівом
+<a href="linear_array.zip">Скачати креслення (DXF)</a>
 
 ## Галерея
 
