@@ -14,7 +14,7 @@
 
 <a href="плече_диполя.zip">Скачати креслення в форматі DXF</a>
 
-<img src="плече_діполя.svg" style="height: 200px; width:250px;"/>
+<img src="плече_диполя.svg" style="height: 200px; width:250px;"/>
 
 Відео із зауваженнями по зборці:
 https://youtu.be/QFiHPVZvDwM
